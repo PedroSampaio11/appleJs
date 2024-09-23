@@ -136,10 +136,12 @@ header nav{
   opacity: 1;
   transition: 0.5s;
 }
+
 /* para o js fazer a animaçao */
 #main-content #product-image.changing{
   opacity: 0.5;
 }
+/* é oq deixa a iamgem com opacidade baixa */
 
 #main-content #image-picker{
   margin-bottom: 500px;
