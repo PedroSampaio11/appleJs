@@ -1,7 +1,7 @@
 # appleJs
 
 
-![Tabela na Tela Principal](./img/Phone.png)
+(./img/phone.png)
 
 
-![Tabela Gerada em CSV](./img/telaPrincipal.png)
+(img/tela_principal.png)
